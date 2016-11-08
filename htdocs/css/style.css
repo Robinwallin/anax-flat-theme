@@ -727,6 +727,9 @@ a.rm-button.rm-clicked .rm-button-face-2 {
   text-decoration: none;
   color: #000;
 }
+.footer {
+  background-color: #ded;
+}
 /** --------------------------------------------------------------
  *  Logo images
  */
